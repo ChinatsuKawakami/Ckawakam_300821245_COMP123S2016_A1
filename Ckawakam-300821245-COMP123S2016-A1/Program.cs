@@ -10,6 +10,7 @@ namespace Ckawakam_300821245_COMP123S2016_A1
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
